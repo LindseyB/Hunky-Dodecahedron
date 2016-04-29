@@ -27,3 +27,4 @@ sysinfo.txt
 
 # Blender Temporary files
 *.blend1
+*.blend1.meta
