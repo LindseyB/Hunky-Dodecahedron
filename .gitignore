@@ -28,3 +28,7 @@ sysinfo.txt
 # Blender Temporary files
 *.blend1
 *.blend1.meta
+
+# Windows thumb cache files
+*.thumb
+*.thumb.meta
