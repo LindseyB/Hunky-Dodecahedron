@@ -30,5 +30,5 @@ sysinfo.txt
 *.blend1.meta
 
 # Windows thumb cache files
-*.thumb
-*.thumb.meta
+Thumbs.db
+Thumbs.db.meta
